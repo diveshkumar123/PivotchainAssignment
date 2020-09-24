@@ -1,0 +1,51 @@
+.detectWrapper{
+	height: 600px;
+	background-color:#19334d;
+
+}
+.subImg img{
+	border-radius:15px;
+	height:260px;
+	width:95%!important;
+	background-size:cover;
+	margin:0px!important;
+	
+}
+.heading4{
+	font-size:28px;
+	text-align:center;
+	padding-top:30px;
+	padding-bottom:20px;
+	color:#fff;
+}
+.underline4{
+	height:3px;
+	width:50px;
+	margin:auto;
+	background-color:#fff;
+	margin-bottom:20px;
+}
+.carouselBoxWrapper{
+	/*background-color:#ff0;*/
+	height:350px;
+	padding-top:50px;
+}
+.item1{
+	width:100%;
+	background-size: cover;
+
+}
+.title {
+	margin-bottom: 20px;  
+    padding:20px;
+
+}
+.img{
+	  height: 260px;width:100% ;
+
+}  
+/*.item1 .subImg{
+	background:none;
+}*/
+
+     

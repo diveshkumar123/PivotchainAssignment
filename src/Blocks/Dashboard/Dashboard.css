@@ -1,0 +1,87 @@
+.DashboardWrapper{
+	height:600px;
+	background-color:#000d1a;
+	padding-top:20px;
+}
+.heading{
+	height:34px;
+	color:#fff;
+	text-align:center;
+	margin-top:20px;
+
+}
+.underline{
+	height:2px;
+	width:48px;
+	margin-left:600px;
+	margin-top:15px;
+	background-color:#fff;
+}
+.mainBox{
+	height:420px;
+	background-color:#fff;
+	margin-top:20px;
+}
+.box1{
+	height:210px;
+	background-color:#000d1a;
+}
+.subBox1{
+	height:190px;
+	background-color:#004080;
+	margin-top:10px;
+	border-radius:10px;
+	padding-top:1px;
+	background:transparent;
+	border:1px solid #444;
+}
+.subBox1:hover{
+	background-color:#005580;
+	border:0px!important;
+}
+.iconBox{
+	height:90px;
+	width:90px;
+	margin:40px;
+	border-radius:20px;
+	background-color:#fff;
+	float:left;
+	padding:15px 15px;
+	
+
+}
+.heading1{
+	color:#fff;
+	margin-top:50px;
+	margin-left:190px;
+	font-weight:bold;
+
+}
+.para1{
+	color:#fff;
+	margin-left:190px;
+}
+.Icon1{
+	font-size:60px!important;
+	text-align:center;
+	color:#000d1a;
+	margin-left:3px;
+}
+.Icon2{
+	font-size:60px!important;
+	text-align:center;
+	color:#000d1a;
+}
+.Icon3{
+	font-size:60px!important;
+	text-align:center;
+	color:#000d1a;
+	margin-left:-4px!important;
+}
+.Icon4{
+	font-size:80px!important;
+	text-align:center;
+	color:#000d1a;
+	margin-top:-10px!important;
+	margin-left:-3px!important;
+}
